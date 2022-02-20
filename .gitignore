@@ -1,0 +1,41 @@
+# Visual Studio user-specific files
+*.suo
+*.user
+
+# Visual C++ cache files
+*.aps
+*.opendb
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+
+# Visual Studio build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# Nuget packages
+[Pp]ackages/
+
+# Visual Studio 2017 options directory
+.vs/
+
+# Visual Studio test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Visual Studio profiler
+*.psess
+*.vspx
+*.vsp
+
+# Visual Studio upgrade files
+_UpgradeReport_Files/
+UpgradeLog*.XML
+UpgradeLog*.htm
+Backup*/
+
+# Mac desktop service store files
+.DS_Store
